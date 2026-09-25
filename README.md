@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fariha Tasnim Alam 👋
 
-<!--
-**fariha34/fariha34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering student at **BRAC University**
 
-Here are some ideas to get you started:
+💻 Interested in **Machine Learning, Software Engineering, and Applied AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Trying to make machines learn while I’m still learning how machines work.
+
+## 🛠️ Technologies
+
+**Languages**  
+Python · JavaScript · SQL
+
+**Machine Learning & Data**  
+scikit-learn · Pandas · NumPy · Jupyter
+
+**Web Development**  
+Node.js · Express.js · React · EJS
+
+**Other Tools & Technologies**  
+Git · GitHub · MySQL · OpenGL · Google Earth Engine
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Remote Sensing & Geospatial Analysis
+- Software Engineering
+- Systems Programming
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/fariha-tasnim-alam-643aa432b) · [GitHub](https://github.com/fariha34)
